@@ -14,6 +14,7 @@ Instead please donate to [charity: water](http://charitywater.org/).
 ## Building
 
 [![Build Status](https://secure.travis-ci.org/madrobby/zepto.svg?branch=master)](http://travis-ci.org/madrobby/zepto)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazadbotan%2Fzepto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazadbotan%2Fzepto?ref=badge_shield)
 
 The official site offers a download of the default distribution of Zepto. This
 is good for starting out. However, at some point you might want to add some
@@ -232,3 +233,7 @@ the browser console if available).
   [mkd]: https://help.github.com/articles/creating-and-highlighting-code-blocks/
   [evidence.js]: https://github.com/tobie/Evidence
   [phantomjs]: http://phantomjs.org/download.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fazadbotan%2Fzepto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fazadbotan%2Fzepto?ref=badge_large)
